@@ -1,0 +1,13 @@
+Mexico was the hardest hit country by cyber attacks in 2019
+Ransomware attacks can be extremely costly. For example, an attack involving the NotPetya
+ransomware cost shipping firm Maersk more than $200 million.
+The US, Brazil, India, Vietnam, and Turkey are the countries with the most ransomware attacks. 
+The number of new mobile ransomware Trojans increased slightly in 2019 versus 2018, but decreased over the course of 2019. 
+Phishing attacks reach their highest level in 3 years
+Malicious hackers and scammers are getting craftier at creating and sending phishing emails that trick even the most cautious users. 
+The data shows that this is a constant cause for concern with no sign of slowing down in terms of effectiveness.
+The most frequent targeted attack vector is spear phishing. 
+Scammers and attacks send out 6.4 billion fake emails every day 
+Small organizations receive malicious emails at a higher rate. 
+Mining companies are most likely to receive malicious emails. 
+Webmail and SaaS users are the biggest targets of phishing attacks. 

@@ -1,0 +1,21 @@
+Mexico:93.9%:
+Spain:87.5%:
+Italy:85.7%:
+Colombia:83.9%:
+China:83.3%:
+USA:82.6%:
+UK:82.3%:
+Saudi Arabia:82.0%:
+France:81.1%:
+Singapore:79.2%:
+Germany:79.2%:
+Canada:78.0%:
+Brazil:77.4%:
+Japan:76.7%:
+South Africa:76.0%:
+Australia:73.9%:
+Turkey:60.4%:
+
+
+
+ 
