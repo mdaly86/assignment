@@ -1,9 +1,0 @@
-62% of organizations are to spend more on cybersecurity in 2020. 
-53% of organizations increased their cybersecurity budget in 2018. 
-15% of businesses have a sizeable IT security budget larger than $10 million, while 37% spend less than $200,000. 
-44% of 9,500 executives in 122 countries surveyed say they do not have an overarching information security strategy 
-The issue goes deeper than that: 48% of these 9,500 executives confirmed they do NOT have a security awareness training program for their employees 
-54% of them also lack an incident response process to help them cope with potential attacks and compromises 
-
-
-
